@@ -1,0 +1,5 @@
+ollama
+llama3
+openai
+fastapi
+uvicorn
