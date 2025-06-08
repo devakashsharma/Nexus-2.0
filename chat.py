@@ -1,4 +1,4 @@
-from ollama import Client
+from ollama import Client # type: ignore
 
 client = Client(host='http://localhost:11434')  # default Ollama server
 
